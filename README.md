@@ -11,7 +11,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: 
   - **GitHub**: [SolomonOdunusi](https://github.com/SolomonOdunusi)
-  - **Linkedln**: [SolomonOdunusi](https://www.linkedin.com/in/solomonodunusiwebdev/)
+  - **Linkedln**: [SolomonOdunusi](https://www.linkedin.com/in/solomonodunusi/)
   - **Twitter**: [SolomonOdunusi](https://twitter.com/SolomonOdunusi3)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
